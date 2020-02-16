@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>test</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Marcus Wong\Documents\test\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
