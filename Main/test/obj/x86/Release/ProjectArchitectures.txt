@@ -1,0 +1,8 @@
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;x86
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;x86
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj;x86
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj;x86
+C:\Users\Marcus Wong\Downloads\CIT Msc AI\MASTERS RESEARCH\test\test.csproj;x86

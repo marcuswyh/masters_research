@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marcus Wong\\Downloads\\CIT Msc AI\\MASTERS RESEARCH\\GeneratedProjects\\UWP\\Unity.Analytics.DataPrivacy\\Unity.Analytics.DataPrivacy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marcus Wong\\Downloads\\CIT Msc AI\\MASTERS RESEARCH\\GeneratedProjects\\UWP\\Unity.Analytics.DataPrivacy\\Unity.Analytics.DataPrivacy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marcus Wong\\Downloads\\CIT Msc AI\\MASTERS RESEARCH\\GeneratedProjects\\UWP\\Unity.Analytics.DataPrivacy\\Unity.Analytics.DataPrivacy.csproj",
+        "projectName": "Unity.Analytics.DataPrivacy",
+        "projectPath": "C:\\Users\\Marcus Wong\\Downloads\\CIT Msc AI\\MASTERS RESEARCH\\GeneratedProjects\\UWP\\Unity.Analytics.DataPrivacy\\Unity.Analytics.DataPrivacy.csproj",
+        "projectJsonPath": "C:\\Users\\Marcus Wong\\Downloads\\CIT Msc AI\\MASTERS RESEARCH\\GeneratedProjects\\UWP\\Unity.Analytics.DataPrivacy\\project.json",
+        "packagesPath": "C:\\Users\\Marcus Wong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marcus Wong\\Downloads\\CIT Msc AI\\MASTERS RESEARCH\\GeneratedProjects\\UWP\\Unity.Analytics.DataPrivacy\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\Marcus Wong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Marcus Wong\\Downloads\\OpenCvSharp-UWP-3.3.1.20171117.1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
