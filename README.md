@@ -1,2 +1,2 @@
-# masters_research
-AR Research Project for Masters
+# Masters Research
+## AR Research Project for Masters
